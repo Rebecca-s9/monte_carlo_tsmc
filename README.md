@@ -55,10 +55,10 @@ The GBM model underestimated TSMC's realized growth, achieving a coverage rate o
 
 <img src="images/distribution.png" width="900">
 
-Expected Price: 2,939
-Median Price: 2,808
-5th Percentile: 1,721
-95th Percentile: 4,583
+- Expected Price: 2,939
+- Median Price: 2,808
+- 5th Percentile: 1,721
+- 95th Percentile: 4,583
 
 ---
 
