@@ -8,7 +8,7 @@ The project evaluates the model through historical validation and generates one-
 
 ---
 
-## Methodology
+## Methodology 
 
 Data
 - Asset: TSMC (2330.TW)
